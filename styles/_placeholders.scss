@@ -20,4 +20,11 @@
             stroke: v.$color_black;
             }
 
+%hover-black-fill {
+    &:hover {
+            cursor: pointer;
+            fill: v.$color_black;
+            }
+        }
+
 }
